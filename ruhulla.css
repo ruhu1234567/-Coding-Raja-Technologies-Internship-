@@ -1,0 +1,24 @@
+#cv-form{
+    /*display: none;*/
+}
+#cv-template{
+    display: none;
+}
+
+.myimg {
+    border-radius: 50%;
+    width: 200px;
+}
+
+.Background {
+    background-color: beige;
+}
+
+.ruhulla {
+    background-color: blue;
+}
+
+/* Corrected class or ID selector syntax */
+#Ruhulla {
+    background-color: blue;
+}
